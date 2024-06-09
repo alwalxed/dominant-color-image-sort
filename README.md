@@ -45,7 +45,7 @@ This command will process all images in the ./images folder and sort them into s
 
 ## 📝 License
 
-This project is licensed under the MIT License. See the LICENSE file for details
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/alwalxed/dominant-color-image-sort/blob/main/LICENSE) file for details.
 
 
 ## 🤝 Contributing
