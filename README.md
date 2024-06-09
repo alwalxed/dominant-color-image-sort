@@ -17,7 +17,7 @@ A handy Python script that takes a folder of images and sorts them into named fo
    
    ```
    git clone https://github.com/alwalxed/dominant-color-image-sort.git
-   cd image-color-sorter
+   cd dominant-color-image-sort
    ```
    
 2. Install the required dependencies:
