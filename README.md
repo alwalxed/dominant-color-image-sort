@@ -30,7 +30,7 @@ pip install -r requirements.txt
 To sort images by their dominant color and move them to corresponding folders, run the following command:
 
 ```
-python -m image_color_sorter.sorter /path/to/source/folder --destination_folder_base /path/to/destination/folder
+python -m image_color_sorter.sorter /path/to/input/folder --destination_folder_base /path/to/output/folder
 ```
 
 
