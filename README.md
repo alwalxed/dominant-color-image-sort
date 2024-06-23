@@ -11,20 +11,6 @@ A handy Python script that takes a folder of images and sorts them into named fo
 - Organizes images into folders named after the dominant color.
 
 
-#### 🔍 Installation
-
-Clone the repository:
-```
-git clone https://github.com/alwalxed/dominant-color-image-sort.git
-cd dominant-color-image-sort
-```
-
-Install the required dependencies:
-```
-pip install -r requirements.txt
-```
-
-
 #### 💡 Usage
 
 To sort images by their dominant color and move them to corresponding folders, run the following command:
@@ -41,6 +27,20 @@ python -m image_color_sorter.sorter ./images --destination_folder_base ./sorted_
 ```
 
 This command will process all images in the ./images folder and sort them into subfolders in the ./sorted_images directory based on their dominant colors.
+
+
+#### 🔍 Installation
+
+Clone the repository:
+```
+git clone https://github.com/alwalxed/dominant-color-image-sort.git
+cd dominant-color-image-sort
+```
+
+Install the required dependencies:
+```
+pip install -r requirements.txt
+```
 
 
 #### 📜 License
