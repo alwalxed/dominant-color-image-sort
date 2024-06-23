@@ -1,4 +1,4 @@
-### Dominant Color Image Sort 🖼️🎨
+### Dominant Color Image Sort
 
 A handy Python script that takes a folder of images and sorts them into named folders based on their dominant color. Useful if you want to group random images by a single pattern, in this case: their dominant color.
 
