@@ -1,9 +1,9 @@
-### Dominant Color Image Sort
+# Dominant Color Image Sort
 
 A handy Python script that takes a folder of images and sorts them into named folders based on their dominant color. Useful if you want to group random images by a single pattern, in this case: their dominant color.
 
 
-#### 🌟 Features
+## 🌟 Features
 
 - Supports multiple image formats: PNG, JPG, JPEG, BMP, GIF, TIFF.
 - Uses k-means clustering to determine the dominant color.
@@ -11,7 +11,7 @@ A handy Python script that takes a folder of images and sorts them into named fo
 - Organizes images into folders named after the dominant color.
 
 
-#### 💡 Usage
+## 💡 Usage
 
 To sort images by their dominant color and move them to corresponding folders, run the following command:
 
@@ -20,7 +20,7 @@ python -m image_color_sorter.sorter /path/to/input/folder --destination_folder_b
 ```
 
 
-#### 📋 Example
+## 📋 Example
 
 ```
 python -m image_color_sorter.sorter ./images --destination_folder_base ./sorted_images
@@ -29,7 +29,7 @@ python -m image_color_sorter.sorter ./images --destination_folder_base ./sorted_
 This command will process all images in the ./images folder and sort them into subfolders in the ./sorted_images directory based on their dominant colors.
 
 
-#### 🔍 Installation
+## 🔍 Installation
 
 Clone the repository:
 ```
@@ -43,12 +43,12 @@ pip install -r requirements.txt
 ```
 
 
-#### 📜 License
+## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/alwalxed/dominant-color-image-sort/blob/main/LICENSE) file for details.
 
 
-#### 🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to open an issue or create a pull request.
 
